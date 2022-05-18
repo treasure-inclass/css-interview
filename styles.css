@@ -1,0 +1,38 @@
+h1 {
+    padding: 10px;
+    border: 2px solid purple;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: row; /* change col */
+    justify-content: center; /* change from center to space-betwen */
+    align-items: center;
+    align-items: flex-end;
+}
+
+div {
+    padding: 25px;
+    border: 10px solid rgb(58, 189, 245);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    box-shadow: 20px 20px 20px 20px rgb(214, 221, 78);
+    background-color: lavenderblush;
+  
+}
+
+ol {
+    
+    background-color: rgb(181, 250, 181);
+    margin: 10px;
+}
+
+li {
+    margin: 10px;
+}
+
+img {
+    border-radius: 50px;
+}
+
+
+
+
